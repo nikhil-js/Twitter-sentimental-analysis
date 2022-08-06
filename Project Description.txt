@@ -1,0 +1,2 @@
+Project title-Twitter Sentimental Analysis
+Aim-This project aims at segregatting the sentimes or emotion of user using Macghine learning. Firstly already described words are segregatted and then Bad and Good words are segregatted and provide the outcome which shows what kind of words user use.
